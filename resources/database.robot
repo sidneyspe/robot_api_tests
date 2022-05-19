@@ -5,7 +5,7 @@ Library               RobotMongoDBLibrary.Delete
 Library               RobotMongoDBLibrary.Find
 
 *** Variables ***
-&{MONGO_URI}          connection=mongodb+srv://bugereats:9IrxBVEMtRl7It3U@cluster0.ccufd.mongodb.net/partnerDB?retryWrites=true&w=majority    database=partnerDB   collection=partner
+&{MONGO_URI}          _URI_HERE_
 
 
 *** Keywords ***
